@@ -2,56 +2,62 @@
 title: "Kojo Sebeh Kusi"
 image: "Kusi.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "#0A66C2")`'
     url: "https://linkedin.com/in/kojosebehkusi"
-  - label: Twitter
-    url: "https://twitter.com/KusiSebeh"
-  - label: GitHub
+  - label: '`r fontawesome::fa("x-twitter", fill = "black")`'
+    url: "https://x.com/KusiSebeh"
+  - label: '`r fontawesome::fa("github", fill = "black")`'
     url: "https://github.com/Kojo-Kusi"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "#0078D4")`'
     url: "mailto:kkusi1@jh.edu"
-  - label: CV
+  - label: '`r fontawesome::fa("file-pdf", fill = "red")`'
     url: "cv.pdf"
 output:
   postcards::trestles
 ---
- 
+
 ## About
 
-I am a physician from Ghana with a strong interest in chronic disease epidemiology, particularly cardiovascular and cardiometabolic conditions. 
-My long-term goal is to design and lead clinical trials focused on non-communicable diseases in Sub-Saharan Africa, especially in Ghana. I want to gain as much practical research experience and quantitative skills, particularly in the design and implementation of clinical trials, and to understand how such trials shape public health interventions and policies. 
+I am a physician from Ghana with a strong interest in chronic disease epidemiology, particularly cardiovascular and cardiometabolic conditions. My long-term goal is to design and lead clinical trials focused on non-communicable diseases in Sub-Saharan Africa, especially in Ghana. I want to gain as much practical research experience and quantitative skills, particularly in the design and implementation of clinical trials, and to understand how such trials shape public health interventions and policies.
 
-I have worked as a clinician since graduating from medical school, with my most recent role as a Medical Officer in the Department of Anesthesia at [Korle Bu Teaching Hospital](https://kbth.gov.gh/), Ghana’s largest tertiary referral center.
+I have worked as a clinician since graduating from medical school, with my most recent role as a Medical Officer in the Department of Anesthesia at the [Korle Bu Teaching Hospital](https://kbth.gov.gh/), Ghana’s largest tertiary referral center.
 
 Currently, I am an MPH candidate in the Epidemiology/Biostatistics concentration at the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/)
 
-
 ##### Interests
-* Clinical Trials and Research
-* Chronic Disease Epidemiology
-* Data Analysis
+
+-   Clinical Trials and Research
+-   Chronic Disease Epidemiology
+-   Data Analysis
 
 ## Education
 
-**Master of Public Health, Epidemiology and Biostatistics** | Exp May 2026
-[Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/) | Baltimore, MD
+**Master of Public Health, Epidemiology and Biostatistics** \| Exp May 2026 [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/) \| Baltimore, MD
 
-**Bachelor of Medicine and Bachelor of Surgery (MD Equivalent) ** | Nov, 2020
-[University of Ghana, School of Medicine and Dentistry](https://ugms.ug.edu.gh) | Accra, Ghana
+**Bachelor of Medicine and Bachelor of Surgery (MD Equivalent)** \| Nov, 2020 [University of Ghana, School of Medicine and Dentistry](https://ugms.ug.edu.gh) \| Accra, Ghana
 
-<small>_Please refer to my CV for more details about my education, career and leadership experience._</small>
+<small>*Please refer to my CV for more details about my education, career and leadership experience.*</small>
 
 ## Research Publication
-Worked on a number of dissertations, but nothing published **yet**.
-Soon to be populated.
+
+Worked on a number of dissertations, but nothing published **yet**. Soon to be populated.
 
 ## Fun facts
-* I love Jesus.
-* I am into headphones, smartwatches and telescope (Though I do not own a telescop yet). Can spend my free time reading tech news and watching review videos.
-* Christopher Nolan is my favourite movie director - held off watching Oppenheimer because I wanted to see it in IMAX
-* Huge Liverpool/Steven Gerrard fan #YNWA!!
-* At one point in  time I wanted to become an Astronomer. 
 
-####### Side Note
-This assignment ie project Zero seemed very daunting, but working on it has been very fun.
-I had very little programming experience and I wanted to gain at least an intermediary level of skill in R-programming so I could write codes without having to rely on ChatGPT. Hopefully by week 8 of this course I should be halfway there.
+-   I love Jesus.
+-   I am into headphones, smart-watches and telescopes.
+<small>*Though I do not own a telescope*</small>
+- My favorite paradoxes are the Omnipotence paradox and the Sleeping Beauty paradox.
+<small>*Interestingly, the best explanation of omnipotence I have come across was from an atheist.*</small>
+-   Christopher Nolan is my favourite movie director - held off watching Oppenheimer because I wanted to see it in IMAX
+-   Huge Liverpool/Steven Gerrard fan #YNWA!!
+-   At one point in time I wanted to become an Astronomer.
+-   Tim Duncan is the GOAT of basketball.
+
+#### Side Note
+
+Project Zero seemed very daunting, but working on it has been very fun and enlightening. The instructions were quite clear and informative. I had no programming experience coming into the MPH program and I wanted to gain at least an intermediary level of skill in R-programming so I could write codes without having to rely on ChatGPT. Hopefully by week 8 of this course I should be halfway there in writing codes in R and understanding R Syntax.
+Grateful to God for the opportunity. And I am glad my friend, [Kwabena Asabere](https://www.linkedin.com/in/kwabenaasabere), recommended this course to me. Thank you [Sean Kross](https://x.com/seankross) for creating the Postcard package and [Leo](https://x.com/lcolladotor) for being a patient tutor.
+
+
+##### Shalom!
