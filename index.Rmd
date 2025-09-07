@@ -47,12 +47,17 @@ Worked on a number of dissertations, but nothing published **yet**. Soon to be p
 -   I love Jesus.
 -   I am into headphones, smart-watches and telescopes.
 <small>*Though I do not own a telescope*</small>
-- My favorite paradoxes are the Omnipotence paradox and the Sleeping Beauty paradox.
-<small>*Interestingly, the best explanation of omnipotence I have come across was from an atheist.*</small>
+- My favorite paradoxes are the [Omnipotence paradox](https://www.youtube.com/watch?v=MFwOy-RDkLI&ab_channel=PhilosophyVibe) and the [Sleeping Beauty paradox](https://www.youtube.com/watch?v=XeSu9fBJ2sI&ab_channel=Veritasium).
+<small>*Interestingly, the best explanation of [omnipotence](https://www.youtube.com/watch?v=gNQkSJXUzjo&ab_channel=Philosophy%3AEngineered%21) I have come across was from an atheist.*</small>
 -   Christopher Nolan is my favourite movie director - held off watching Oppenheimer because I wanted to see it in IMAX
 -   Huge Liverpool/Steven Gerrard fan #YNWA!!
 -   At one point in time I wanted to become an Astronomer.
 -   Tim Duncan is the GOAT of basketball.
+
+### An Interesting Thought
+Veritasium's video (*[Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q&ab_channel=Veritasium)*) which was inspired in part by John Ionanidis paper [*Why Most Published Research Findings Are False*](https://doi.org/10.1371/journal.pmed.0020124), reveals an interesting aspect of science and the conduct of research. In both works, it is shown that even with good intent and the most rigorous of science, scientific studies can present false and misleading conclusions as the truth. The false positivity rates further goes up when you factor in ill-intending actors who engage in p-hacking and, questionable and fraudulent research practices.
+Despite this, as deeply flawed as science and research can be, scientific research is still considered the reliable framework we have for uncovering truth. 
+The essays encourages us to take a critical (but not cynical perspective), ultimately leaving us to ask: given all its flaws, should we trust science at all?
 
 #### Side Note
 
