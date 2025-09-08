@@ -16,7 +16,7 @@ output:
   postcards::trestles
 ---
 
-## About
+## `r fontawesome::fa("user", fill = "blue")` About
 
 I am a physician from Ghana with a strong interest in chronic disease epidemiology, particularly cardiovascular and cardiometabolic conditions. My long-term goal is to design and lead clinical trials focused on non-communicable diseases in Sub-Saharan Africa, especially in Ghana. I want to gain as much practical research experience and quantitative skills, particularly in the design and implementation of clinical trials, and to understand how such trials shape public health interventions and policies.
 
@@ -55,7 +55,7 @@ Worked on a number of dissertations, but nothing published **yet**. Soon to be p
 -   Tim Duncan is the GOAT of basketball.
 
 ### An Interesting Thought
-Veritasium's video (*[Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q&ab_channel=Veritasium)*) which was inspired in part by John Ionanidis paper [*Why Most Published Research Findings Are False*](https://doi.org/10.1371/journal.pmed.0020124), reveals an interesting aspect of science and the conduct of research. In both works, it is shown that even with good intent and the most rigorous of science, scientific studies can present false and misleading conclusions as the truth. The false positivity rates further goes up when you factor in ill-intending actors who engage in p-hacking and, questionable and fraudulent research practices.
+Veritasium's video (*[Is Most Published Research Wrong?](https://www.youtube.com/watch?v=42QuXLucH3Q&ab_channel=Veritasium)*) which was inspired in part by John Ionanidis paper [*Why Most Published Research Findings Are False*](https://doi.org/10.1371/journal.pmed.0020124), reveals an interesting aspect of science and the conduct of research. In both works, it is shown that even with good intent and the most rigorous of science, a significant number of scientific studies present false and misleading conclusions as the truth. The false positivity rates further goes up when you factor in ill-intending actors who engage in p-hacking and, questionable and fraudulent research practices.
 Despite this, as deeply flawed as science and research can be, scientific research is still considered the reliable framework we have for uncovering truth. 
 The essays encourages us to take a critical (but not cynical perspective), ultimately leaving us to ask: given all its flaws, should we trust science at all?
 
